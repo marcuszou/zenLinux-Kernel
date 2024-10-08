@@ -1,4 +1,4 @@
-# zenLinux-Kernel
+# zenix-Kernel
 
 17 Septermber 2024 | Marcus Zou
 
